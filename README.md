@@ -1,7 +1,7 @@
 | Asignatura | 4100611 mecánica de sólidos                                                                                     |
 | ---        | ---                                                                                                             |
-| Profesor   | [Diego Andrés Álvarez](https://github.com/diegoandresalvarez/), [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
-| Profesor   | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), [jnramirezg@unal.edu.co](jnramirezg@unal.edu.co)|
+| Profesor   | [Diego Andrés Álvarez](https://github.com/diegoandresalvarez/), daalvarez@unal.edu.co                           |
+| Profesor   | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), jnramirezg@unal.edu.co                          |
 | Créditos   | 3                                                                                                               |
 
 Departamento de Ingeniería Civil\
