@@ -1,1 +1,95 @@
+# [Contenido temático](/docs/contenido_tematico.md)
+<sub>Literal (c) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 
+# [Cronograma y evaluación](/docs/cronograma_2023-1s.md)
+<sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
+
+# [Tema de los exámenes 2023-1s](/docs/temas_examenes_2023-1s.md)
+
+# Comunicación con el docente y solución de dudas
+- La comunicación extraclase con el docente será únicamente mediante los correos institucionales: jnramirezg@unal.edu.co y daalvarez@unal.edu.co
+- El correo deberá traer como asunto "MECÁNICA_DE_SOLIDOS-(_escribir_asunto_)".
+- No se atenderán dudas a través de otros medios como _WhatsApp_.
+- Solo serán tenidos en cuenta los correos recibidos a través de _cuentas institucionales_ unal.edu.co.
+- Todo el material de clase estará disponible en este repositorio y en el repositorio https://github.com/diegoandresalvarez/solidos
+
+# [Referencias bibliográficas curso](/docs/referencias_curso.md)
+<sub>Literal (g) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
+
+# Asignatura
+*"Además de enseñar, enseña a dudar de lo que haz enseñado"* **José Ortega y Gasset**
+
+## General
+<sub>Literal (a), (f) y (h) del artículo 23 del Acuerdo 008 de 2008 del CSU	</sub>
+
+| **Nombre**   | Mecánica de sólidos  |
+| ---          | ---                  |
+| **Código**   | 4200687              |
+| **Créditos** | 4                    |
+
+| Porcentaje mínimo de asistencia | **90%** |
+| ---                             | ---     |
+| ¿Asignatura validable?          | No      |
+
+- [Plan de estudios](https://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=92461)
+- [Malla curricular](http://mallas.manizales.unal.edu.co/facultades/ingenieriaYArquitectura/civil/index.html)
+
+# Objetivos
+### Objetivos generales
+
+- En este curso se profundizará en la teoría de la elasticidad, imprescindible para poder entender con suficiencia, el método de los *elementos finitos*, y para tener bases apropiadas para *manejar con criterio los diferentes programas de análisis estructural* que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en *ingeniería geotécnica y de pavimentos*.
+- Partiendo de los conocimientos previos sobre tensiones y deformaciones, adquiridos en el curso de mecánica tensorial, el curso se desarrolla estudiando en profundidad las relaciones entre *esfuerzos y deformaciones* para materiales elásticos lineales y las ecuaciones fundamentales de la teoría de la elasticidad. Finaliza con la formulación elástica en coordenadas cilíndricas, lo cual es de especial importancia no solo en la mecánica estructural sino en la de suelos.
+
+### Objetivos específicos
+
+Se espera que al final del curso, el estudiante esté en capacidad de:
+
+- Analizar y explicar como varían las tensiones y las deformaciones al interior de un sólido elástico.
+- Entender las diferentes suposiciones y limitaciones presentes en la teoría de la elasticidad.
+- Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán en asignaturas en las líneas de mecánica de suelos y pavimentos.
+
+## ¿Qué significa 1 crédito académico?
+
+“Un crédito es la unidad que mide el tiempo que el estudiante requiere para cumplir a cabalidad los objetivos de formación de cada asignatura y equivale a ***48 horas de trabajo del estudiante***. Éste incluirá las actividades presenciales que se desarrollan en las aulas con el profesor, las actividades con orientación docente realizadas fuera de las aulas y las actividades autónomas llevadas a cabo por el estudiante, además de prácticas, preparación de exámenes y todas aquellas que sean necesarias para alcanzar las metas de aprendizaje.” [art. 6](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34245#6) Acuerdo 033 de 2007 del CSU
+
+
+|                            | Horas/semana | Horas/semestre |
+| ---                        | ---          | ---            |
+| **Actividad presencial**   |      4       |       64       |
+| **Actividad autónoma**     |      5       |       80       |
+| **Total**                  |      9       |   144 = 48*3   |
+
+
+## Prerequisitos: 
+- 4200687 - Mecánica de Tensorial (*)
+- 1000007 – Ecuaciones Diferenciales
+
+## Conocimientos previos:
+- Cálculo Diferencial
+- Cálculo Integral
+- Cálculo Vectorial
+- Álgebra Lineal
+- Física Mecánica
+- Estática
+- Programación de Computadores (**)
+
+
+<sub>(*) O su equivalente: Resistencia de Materiales</sub>
+
+<sub>(**) No está definido en el Acuerdo 300 de 2018 del CFIA</sub>
+
+## Asignaturas siguientes
+
+### Herramientas informáticas y métodos numéricos 
+- [Métodos numéricos aplicados a la ingeniería civil](https://github.com/jnramirezg/metodos_numericos_ingenieria_civil)
+- [Aplicaciones de elementos finitos 1](https://github.com/diegoandresalvarez/elementosfinitos)
+- [Aplicaciones de elementos finitos 2](https://github.com/diegoandresalvarez/elementosfinitos)
+
+### Otras asignaturas
+- Análisis estructural avanzado
+- Estructuras metálicas
+- Diseño Estructural básico
+- Fundamentos de construcción
+- Diseñor estructural avanzado
+- Pavimentos
+- Optativa construcción de obras civiles
