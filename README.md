@@ -16,5 +16,9 @@ Universidad Nacional de Colombia
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Código](https://github.com/jnramirezg/medio_continuo/tree/main/codigo)
 - [Taller 2023-1s](/docs/taller_2023-1s.md)
-- [La wiki 2023-1s](/docs/wiki_2023-1s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
+
+## WIKI para la corrección de los errores en el `main.pdf`: 
+  * http://mecanicadesolidos.shoutwiki.com/
+  * [Reglas de la WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/Reglas_de_la_WIKI)
+  * [Ejemplos de contribuciones a la WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/Ejemplos_de_contribuciones_a_la_WIKI)
