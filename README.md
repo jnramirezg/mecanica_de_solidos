@@ -15,5 +15,6 @@ Universidad Nacional de Colombia
 - [Cronograma y evaluación 2023-1s](/docs/cronograma_2023-1s.md)
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Código](https://github.com/jnramirezg/medio_continuo/tree/main/codigo)
+- [Taller 2023-1s](/docs/taller_2023-1s.md)
 - [La wiki 2023-1s](/docs/wiki_2023-1s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
