@@ -1,6 +1,6 @@
 # Calendario académico 2023-1s
 
-## Mecánica tensorial Gr.1
+## Mecánica tensorial Grupo 1
 | **Inicio:**               | lunes 06 de febrero de 2023                                     |
 | ---                       | ---                                                             |
 | **Semana santa:**         | lunes 03 de abril de 2023– sábado 08 de abril de 2023           |
@@ -9,8 +9,8 @@
 
 <sub>[Res. 1148 de 2022 de Rectoría]([http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf))</sub>
 
-Martes 10:00h – 12:00h (Aula C412) [Ma16-18 C412]
-Jueves  10:00h – 12:00h (Aula J101)  [Ju  16-18  J101]
+Martes 10:00h – 12:00h (Aula C412) [Martes 16-18 C412]
+Jueves 10:00h – 12:00h (Aula J101) [Jueves 16-18 J101]
 
 ## Cronograma y porcentajes
 
@@ -26,7 +26,7 @@ Jueves  10:00h – 12:00h (Aula J101)  [Ju  16-18  J101]
 - Los exámenes serán individuales.
 - Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o aplicadas a programación. Constarán de mínimo 2 preguntas.
 - En algunos casos será posible que la calificación sea superior a 5.0 con previa manifestación por parte del docente.
--Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
+- Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
 - El docente previamente podrá autorizar durante el examen el uso de una hoja tamaño carta (blanca) por un solo lado elaborada a puño y letra con ecuaciones (no demostraciones), comandos de Python, pseudocódigo y palabras claves (no párrafos). 
 - No será posible el uso de ninguna herramienta digital, ni calculadora.
 

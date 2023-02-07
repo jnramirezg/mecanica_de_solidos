@@ -19,15 +19,7 @@
 - Principio de superposición.
 - Principio de Saint-Venant.
 
-# Unidad 3: Criterios de falla para materiales dúctiles y frágiles
-- Esfuerzos medios, desviadores y octaédricos.
-- El espacio de esfuerzos principales, la superficie de fluencia y la región elástica.
-- El sistema de coordenadas cilíndricas de Haigh-Westergaard.
-- Energía de dilatación y energía de distorsión.
-- Criterios de fluencia y superficies de plastificación en materiales dúctiles: von Mises, Tresca.
-- Criterios de rotura y superficies de falla en materiales frágiles: Rankine, Mohr-Coulomb, Drucker-Prager, Matsuoka-Nakai.
-
-# Unidad 4: Formulación de la teoría de la elasticidad en coordenadas cilíndricas
+# Unidad 3: Formulación de la teoría de la elasticidad en coordenadas cilíndricas
 - Los sistemas de coordenadas polares y cilíndricas.
 - El gradiente, el laplaciano, la divergencia y el rotacional.
 - Esfuerzos.
@@ -39,6 +31,14 @@
 - Funciones de tensión de Airy y de Love.
 - Ecuaciones diferenciales de Navier.
 - Aplicaciones.
+
+# Unidad 4: Criterios de falla para materiales dúctiles y frágiles
+- Esfuerzos medios, desviadores y octaédricos.
+- El espacio de esfuerzos principales, la superficie de fluencia y la región elástica.
+- El sistema de coordenadas cilíndricas de Haigh-Westergaard.
+- Energía de dilatación y energía de distorsión.
+- Criterios de fluencia y superficies de plastificación en materiales dúctiles: von Mises, Tresca.
+- Criterios de rotura y superficies de falla en materiales frágiles: Rankine, Mohr-Coulomb, Drucker-Prager, Matsuoka-Nakai.
 
 # Unidad 5: Torsión
 
