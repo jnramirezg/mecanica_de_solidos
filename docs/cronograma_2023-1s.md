@@ -22,8 +22,7 @@ Jueves  10:00h – 12:00h (Aula J101)  [Ju  16-18  J101]
 | Evaluación parcial 4     | 25%   | jueves 01 de junio de 2023  | Diego Andrés |
 
 # Sobre la evaluación:
-- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el 5), incluido los temas de estudio autónomo.
-- La evaluación parcial 1 es sobre los temas de estudio autónomo de la unidad 0 (repaso).
+- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el 4), incluido los temas de estudio autónomo.
 - Los exámenes serán individuales.
 - Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o aplicadas a programación. Constarán de mínimo 2 preguntas.
 - En algunos casos será posible que la calificación sea superior a 5.0 con previa manifestación por parte del docente.
