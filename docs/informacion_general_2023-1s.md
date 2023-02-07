@@ -1,3 +1,5 @@
+[Presentación primera clase](/docs/solidos-0-programa_calendario_2023-1s.pdf)
+
 # [Contenido temático](/docs/contenido_tematico.md)
 <sub>Literal (c) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 
