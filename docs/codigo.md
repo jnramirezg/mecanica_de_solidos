@@ -9,8 +9,8 @@ En [este enlace](https://github.com/michaelherediaperez/medio_continuo/blob/main
 ## 04. Relaciones entre los esfuerzos y las deformaciones
 | Códigos                                                                             | 
 |---                                                                                  |                                       
-|[01-ejemplo dir. pples. deformación plana]([23-(4_8_3)-ejemplo_DP.ipynb](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_DP.ipynb))              |
-|[02-ejemplo dir. pples. tensión plana]([24-(4_8_3)-ejemplo_TP.ipynb](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_TP.ipynb))                  |
+|[01-ejemplo dir. pples. deformación plana](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_DP.ipynb))              |
+|[02-ejemplo dir. pples. tensión plana](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_TP.ipynb))                  |
 |[25-Integrales vigas](25-(4_9_4)_integrales.ipynb)	                                  |          
 |[26-gráficos de colores de esfuerzos y deformaciones](26-(4_9_6)-graficos_viga.ipynb)|
 |[27-Diseño esquemático de concreto](27-diseno_concreto_reforzado.ipynb)              | 
