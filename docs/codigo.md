@@ -11,8 +11,8 @@ En [este enlace](https://github.com/michaelherediaperez/medio_continuo/blob/main
 |---                                                                                  |                                       
 |[01-ejemplo dir. pples. deformación plana](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_DP.ipynb)              |
 |[02-ejemplo dir. pples. tensión plana](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_TP.ipynb)                 |
-|[25-Integrales vigas](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_04.ipynb)	                                  |          
-|[26-gráficos de colores de esfuerzos y deformaciones](26-(4_9_6)-graficos_viga.ipynb)|
-|[27-Diseño esquemático de concreto](27-diseno_concreto_reforzado.ipynb)              | 
-|[28-ejemplo (4.10.3)]()                                                              |
+|[03-Integrales vigas](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_04.ipynb)	                                  |          
+|[04-gráficos de colores de esfuerzos y deformaciones](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_graficos_colores.ipynb)|
+|[05-Diseño esquemático de concreto](27-diseno_concreto_reforzado.ipynb)              | 
+
 
