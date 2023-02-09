@@ -33,7 +33,7 @@ Jueves 10:00h – 12:00h (Aula J101) [Jueves 16-18 J101]
 # Falta a una actividad evaluativa
 Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
 
-# [Taller de aplicación (opcional)](/docs/taller_2022-2s.md)
+# [Taller de aplicación (opcional)](/docs/taller_2023-1s.md)
 **Interpretación de gráficos:** modelado de estructuras en tensión/deformación plana utilizando un software profesional.
 
 - Se realizará en grupos, cuya cantidad de integrantes se acordará con el docente.
