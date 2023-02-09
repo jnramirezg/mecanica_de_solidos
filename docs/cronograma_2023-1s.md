@@ -38,5 +38,5 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 
 - Se realizará en grupos, cuya cantidad de integrantes se acordará con el docente.
 - Las condiciones del talles serán presentadas a más tardar el *martes 21 de febrero de 2023* en [Taller de aplicación (opcional)](/docs/taller_2023-1s.md)
-- **Fecha límite de entrega:** *lunes 29 de marzo de 2023* (parte individual) - *martes 28 de marzo de 2023* (parte grupal)
+- **Fecha límite de entrega:** *lunes 27 de marzo de 2023* (parte individual) - *martes 28 de marzo de 2023* (parte grupal)
 - La calificación final del taller **remplazará** la ***peor*** calificación de las cuatro evaluaciones parciales. La calificación será entregada al finalizar el periodo académico.
