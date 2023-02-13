@@ -26,8 +26,8 @@
 
 | **Nombre**   | Mecánica de sólidos  |
 | ---          | ---                  |
-| **Código**   | 4200687              |
-| **Créditos** | 4                    |
+| **Código**   | 4100611              |
+| **Créditos** | 3                    |
 
 | Porcentaje mínimo de asistencia | **90%** |
 | ---                             | ---     |
