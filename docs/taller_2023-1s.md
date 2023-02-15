@@ -10,8 +10,8 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 
 | Actividad                                                                   | Fecha límite                                 |
 | ---                                                                         | ---                                          |
-| Creación de tarea en [GOOGLE CLASSROOM](https://classroom.google.com/)      | viernes 10 de marzo de 2023 a las 18:00h     |
-| Definición de modelo, software y grupo                                      | domingo 12 de marzo de 2023 a las 23:59h     |
+| Creación de tarea en [GOOGLE CLASSROOM](https://classroom.google.com/)      | viernes 17 de febrero de 2023 a las 8:00h     |
+| Definición de modelo, software y grupo                                      | viernes 24 de febrero de 2023 a las 23:59h     |
 | Entrega de trabajo individual (**<font color='green'>+3.9</font>**)         | Viernes 24 de marzo de 2023 a las 23:59h   |
 | Entrega de trabajo grupal (**<font color='green'>+2.1</font>**)             | Viernes 24 de marzo de 2023 a las 23:59h  |
 
