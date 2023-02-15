@@ -13,6 +13,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |[02-ejemplo dir. pples. tensión plana](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_TP.ipynb)                 |
 |[03-Integrales vigas](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_04.ipynb)	                                  |          
 |[04-gráficos de colores de esfuerzos y deformaciones](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_graficos_colores.ipynb)|
-|[05-diseño esquemático de concreto](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/27-diseno_concreto_reforzado.ipynb)             | 
+|[05-diseño esquemático de concreto](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/27-diseno_concreto_reforzado.ipynb)             |
+|[06-análisis viga simplemente apoyada](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/28-analisis_viga_simplemente_apoyada.ipynb)|
 
 
