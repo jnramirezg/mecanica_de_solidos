@@ -6,7 +6,7 @@ Se busca contrastar la teoría aprendida y la práctica mediante el uso de un so
 
 Se espera que el estudiante explore, comente, discuta los conceptos aprendidos en clase, los conceptos nuevos vistos en el software y que proponga soluciones a los problemas propuestos.
 
-El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos serán de mínimo dos (2) y máximo tres (3) estudiantes.
+El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos serán de mínimo dos (2) y máximo cuatro (4) estudiantes.
 
 | Actividad                                                                   | Fecha límite                                 |
 | ---                                                                         | ---                                          |
