@@ -1,5 +1,5 @@
 # Examen 1 (25%): jueves 09 de marzo de 2023
-Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
+Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación) [(Solución)](/docs/SOL-examen_1-2023-1s.pdf)
 
 # Examen 2 (25%): jueves 13 de abril de 2023
 Tener en cuenta las [condiciones generales](/docs/cronograma_2023-1s.md#sobre-la-evaluación).
