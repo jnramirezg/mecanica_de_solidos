@@ -15,5 +15,6 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |[04-gráficos de colores de esfuerzos y deformaciones](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_graficos_colores.ipynb)|
 |[05-diseño esquemático de concreto](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/27-diseno_concreto_reforzado.ipynb)             |
 |[06-análisis viga simplemente apoyada](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/28-analisis_viga_simplemente_apoyada.ipynb)|
-
+|[07-análisis viga en voladizo](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/29-modelo_viga_voladizo.ipynb)|
+|[08-verificación de la notación indicial: ecuaciones de compatibilidad de Saint-Venant](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/30-ecuaciones_saint_venant.ipynb)|
 
