@@ -25,5 +25,6 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 ## 06. Formulación de la teoría de elasticidad en coordenadas cilíndricas
 | Códigos                                                                             | 
 |---                                                                                  |
-|09-laplaciano de $\phi$: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.01_laplaciano.ipynb)
+|09-laplaciano de $\phi$: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.01_laplaciano.ipynb)|
+|10-gradiente en cilindricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.mac)|
 
