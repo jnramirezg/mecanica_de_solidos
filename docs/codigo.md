@@ -26,5 +26,6 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 | Códigos                                                                             | 
 |---                                                                                  |
 |09-laplaciano de $\phi$: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.01_laplaciano.ipynb)|
-|10-gradiente en cilindricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.mac)|
-
+|10-gradiente en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.mac)|
+|11-divergencia en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.3_divergencia.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.3_divergencia.mac)|
+|12-rotacional en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.4_rotacional.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.4_rotacional.mac)|
