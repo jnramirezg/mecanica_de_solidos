@@ -21,7 +21,8 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 | Códigos                                                                             | 
 |---                                                                                  |     
 |[08-verificación de la notación indicial: ecuaciones de compatibilidad de Saint-Venant](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/30-ecuaciones_saint_venant.ipynb)|
-|[09-analisis viga simplemente apoyada Airy](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/31-analisis_viga_simplemente_apoyada_airy.ipynb)|
+|[09-análisis viga simplemente apoyada Airy](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/31-analisis_viga_simplemente_apoyada_airy.ipynb)|
+|[10-análisis viga en voladizo Airy](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/32-analisis_viga_en_voladizo_airy.ipynb)|
 
 ## 06. Formulación de la teoría de elasticidad en coordenadas cilíndricas
 | Códigos                                                                             | 
