@@ -6,7 +6,7 @@ Se busca contrastar la teoría aprendida y la práctica mediante el uso de un so
 
 Se espera que el estudiante explore, comente, discuta los conceptos aprendidos en clase, los conceptos nuevos vistos en el software y que proponga soluciones a los problemas propuestos.
 
-El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos serán de mínimo dos (2) y máximo cuatro (3) estudiantes.
+El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos serán de mínimo dos (2) y máximo tres (3) estudiantes.
 
 | Actividad                                                                   | Fecha límite                                 |
 | ---                                                                         | ---                                          |
@@ -21,7 +21,7 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 
 * Se debe analizar mediante un programa profesional un sólido (estructura simple, no demasiado) por **tensión plana** o **deformación plana** (que se pueda modelar).
 
-* Los integrantes de un mismo grupo deberán modelar el mismo sólido bajo la misma configuración de carga y propiedades constitutivas, y será único del grupo, todos los grupos deben tener sólidos y configuraciones diferentes (**El profesor monitor aceptará o no el sólido a modelar**).
+* Los integrantes de un mismo grupo deberán modelar el mismo sólido bajo la misma configuración de carga y propiedades constitutivas, y será único del grupo, todos los grupos deben tener sólidos y configuraciones diferentes (**El profesor o monitor aceptará o no el sólido a modelar**).
 
 * En un archivo de GOOGLE SLIDES, especificado en el GOOGLE CLASSROOM, subirán el esquema o la foto de la estructura que analizarán. La estructura debe estar hecha de un material isótropo u ortótropo (es su decisión); las propiedades del material deberán sacarlas de internet y referenciarlas en sus respectivos trabajos.
 
