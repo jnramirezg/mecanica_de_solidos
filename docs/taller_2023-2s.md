@@ -10,9 +10,9 @@ El trabajo cuenta con un componente *individual* y uno *grupal*. Los grupos ser�
 
 | Actividad                                                                   | Fecha límite                                 |
 | ---                                                                         | ---                                          |
-| Definición de modelo, software y grupo                                      | viernes xx de xxxx de 2023 a las 23:59h     |
-| Entrega de trabajo individual (**<font color='green'>+3.9</font>**)         | Viernes xx de xxxx de 2023 a las 23:59h   |
-| Entrega de trabajo grupal (**<font color='green'>+2.1</font>**)             | Viernes xx de xxxx de 2023 a las 23:59h  |
+| Definición de modelo, software y grupo                                      | Martes 05 de septiembre de 2023 a las 23:59h     |
+| Entrega de trabajo individual (**<font color='green'>+3.9</font>**)         | Jueves 12 de octubre de 2023 a las 23:59h   |
+| Entrega de trabajo grupal (**<font color='green'>+2.1</font>**)             | Viernes 13 de octubre de 2023 a las 23:59h  |
 
 * El taller opcional será calificado hasta **<font color='green'>+6.0</font>** y habrá algunas *penalizaciones*.
 
@@ -33,7 +33,7 @@ Absolutamente todos los estudiantes del salón deberán usar un software diferen
 
 Una vez los estudiantes sean añadidos al salón de GOOGLE CLASSROOM, y la información sea publicada, podrán comenzar a registrar el software a utilizar. Si registran un software se asume que harán el trabajo, así que sean consientes de que si registran un software pero luego no hacen nada, le están quitando la oportunidad a alguien más de emplear dicho programa.
 
-Habrá plazo desde el **viernes 17 de febrero de 2023 a las 8:00h** hasta el **viernes 24 de febrero de 2022 a las 23:59h** para que los estudiantes concreten el software a emplear y su modelo de estudio, y para la conformación de los grupos. Luego de esta fecha, no se aceptarán modificaciones. 
+Habrá plazo hasta el **martes 05 de septiembre de 2023 a las 23:59h** para que los estudiantes concreten el software a emplear y su modelo de estudio, y para la conformación de los grupos. Luego de esta fecha, no se aceptarán modificaciones. 
 
 ## Se solicita
 * Explicar detalladamente como se modelaron las condiciones de frontera (condiciones de apoyo, cargas).
