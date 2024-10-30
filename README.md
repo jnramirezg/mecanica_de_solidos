@@ -9,8 +9,7 @@ Universidad Nacional de Colombia
 
 
 ## Contenido
-- [Información general 2023-1s](/docs/informacion_general_2023-1s.md)
-- [Temas de los exámenes 2023-1s](/docs/temas_examenes_2023-1s.md)
+- [Temas de los exámenes 2023-1s](/docs/temas_examenes_2024-2s.md)
 - [Cronograma y evaluación 2024-2s](/docs/cronograma_2024-2s.md)
 - [Contenido temático](/docs/contenido_tematico.md)
 - [Código](/docs/codigo.md)
