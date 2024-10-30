@@ -19,8 +19,8 @@ Jueves 10:00h – 12:00h (Aula C310) [Jueves 16-18 C310]
 | Evaluación parcial 1     | 25%   | jueves 21 de noviembre de 2024  |
 | Evaluación parcial 2 - parte 1   | 12.5%   | miércoles 11 de diciembre de 2024   |
 | Evaluación parcial 2 - parte 2   | 12.5%   | miércoles 18 de diciembre de 2024   |
-| Evaluación parcial 3     | 25%   | jueves 06 de febrero de 2024  |
-| Evaluación parcial 4     | 25%   | jueves 06 de marzo de 2024  | 
+| Evaluación parcial 3     | 25%   | jueves 06 de febrero de 2025  |
+| Evaluación parcial 4     | 25%   | jueves 06 de marzo de 2025  | 
 
 # Sobre la evaluación:
 - Serán evaluados los temas vistos hasta la semana antes del examen (excepto el 4), incluido los temas de estudio autónomo.
