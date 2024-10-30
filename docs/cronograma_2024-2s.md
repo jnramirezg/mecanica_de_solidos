@@ -32,11 +32,3 @@ Jueves 10:00h – 12:00h (Aula C310) [Jueves 16-18 C310]
 
 # Falta a una actividad evaluativa
 Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
-
-# [Taller de aplicación (opcional)](/docs/taller_2023-1s.md)
-**Interpretación de gráficos:** modelado de estructuras en tensión/deformación plana utilizando un software profesional.
-
-- Se realizará en grupos, cuya cantidad de integrantes se acordará con el docente.
-- Las condiciones del talles serán presentadas a más tardar el *martes 21 de febrero de 2023* en [Taller de aplicación (opcional)](/docs/taller_2023-1s.md)
-- **Fecha límite de entrega:** *viernes 24 de marzo de 2023* (parte individual) - *viernes 24 de marzo de 2023* (parte grupal)
-- La calificación final del taller **remplazará** la ***peor*** calificación de las cuatro evaluaciones parciales. La calificación será entregada al finalizar el periodo académico.
