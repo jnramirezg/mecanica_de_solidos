@@ -1,7 +1,7 @@
 # Texto principal
-* Álvarez Marín, D. A. (2022). Notas del curso mecánica de sólidos. Manizales: Universidad Nacional de Colombia.
+* Álvarez Marín, D. A. (2024). Notas del curso mecánica de sólidos. Manizales: Universidad Nacional de Colombia. Versión oct_28
 
-Por favor no compartir este libro con nadie, ni subirlo a ningún repositorio. Será enviado a su correo para uso únicamente con fines de estudio.  Debido a que se encuentra en edición, se deben tener estas precauciones. Inmediatamente se publique, su uso será libre.
+Por favor no compartir este libro con nadie, ni subirlo a ningún repositorio. Será enviado a su correo para uso únicamente con fines de estudio.  Debido a que se encuentra en edición, se deben tener estas precauciones.
 
 
 # Otros textos
