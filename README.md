@@ -1,6 +1,5 @@
-| Asignatura | 4100611 mecánica de sólidos                                                             |
+| Asignatura | 4201079 mecánica de sólidos                                                             |
 | ---        | ---                                                                                     |
-| Profesor   | [Diego Andrés Álvarez](https://github.com/diegoandresalvarez/), daalvarez@unal.edu.co   |
 | Profesor   | [Juan Nicolás Ramírez Giraldo](https://github.com/jnramirezg/), jnramirezg@unal.edu.co  |
 | Créditos   | 3                                                                                       |
 
@@ -17,8 +16,3 @@ Universidad Nacional de Colombia
 - [Código](/docs/codigo.md)
 - [Taller 2023-1s](/docs/taller_2023-1s.md)
 - [Referencias bibliográficas curso](/docs/referencias_curso.md)
-
-## WIKI para la corrección de los errores en el `main.pdf`: 
-  * http://mecanicadesolidos.shoutwiki.com/
-  * [Reglas de la WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/Reglas_de_la_WIKI)
-  * [Ejemplos de contribuciones a la WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/Ejemplos_de_contribuciones_a_la_WIKI)
