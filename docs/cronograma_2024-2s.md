@@ -1,11 +1,11 @@
-# Calendario académico 2023-1s
+# Calendario académico 2024-2s
 
 ## Mecánica de sólidos Grupo 1
-| **Inicio:**               | martes 07 de febrero de 2023                                     |
+| **Inicio:**               | miércoles 30 de ocubre de 2024                                  |
 | ---                       | ---                                                             |
-| **Semana santa:**         | lunes 03 de abril de 2023– sábado 08 de abril de 2023           |
-| **Fin:**                  | jueves 01 de junio de 2023                                    |
-| **Notas SIA:**            | hasta las 5PM del viernes 9 de junio de 2023                    |
+| **Vacaciones:**         | sábado 20 de diciembre de 2024 -martes 14 de enero de 2025 (inclusive)     |
+| **Fin:**                  | jueves 06 de marzo de 2025                                    |
+| **Notas SIA:**            | hasta las 5PM del viernes 14 de marzo de 2025                  |
 
 <sub>[Res. 1148 de 2022 de Rectoría]([http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf))</sub>
 
