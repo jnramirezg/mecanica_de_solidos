@@ -23,7 +23,6 @@ Jueves 10:00h – 12:00h (Aula C310) [Jueves 16-18 C310]
 | Evaluación parcial 4     | 25%   | jueves 06 de marzo de 2025  | 
 
 # Sobre la evaluación:
-- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el 4), incluido los temas de estudio autónomo.
 - Los exámenes serán individuales.
 - Los exámenes tendrán una duración mínima de 60 minutos con preguntas conceptuales, de demostración o aplicadas a programación. Constarán de mínimo 2 preguntas.
 - Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
