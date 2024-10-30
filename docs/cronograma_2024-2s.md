@@ -9,8 +9,8 @@
 
 <sub>[Acuerdo 010 de 2024 del CS Manizales]([[http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=99433](http://dama.manizales.unal.edu.co/wp-content/uploads/2023/01/1148-calendario.pdf](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=108864)))</sub>
 
-Martes 10:00h – 12:00h (Aula C412) [Martes 16-18 C412]
-Jueves 10:00h – 12:00h (Aula J101) [Jueves 16-18 J101]
+Miércoles 16:00h – 18:00h (Aula C401) [Martes 16-18 C401]
+Jueves 10:00h – 12:00h (Aula C310) [Jueves 16-18 C310]
 
 ## Cronograma y porcentajes
 
