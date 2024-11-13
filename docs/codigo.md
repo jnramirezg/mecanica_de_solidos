@@ -11,6 +11,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |---                                                                                  |                                       
 |[01- graficos_colores_viga_simplemente_apoyada.ipynb](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/04_ley_de_Hooke/4.08.3_ejemplo_2D_a_3D_deformacion_plana.ipynb)              |
 |[02- Gráficos de esfuerzos y deformaciones](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/04_ley_de_Hooke/4.09_graficos_colores_viga_simplemente_apoyada.ipynb)|
+|[03- Diseño esquemático de concreto reforzado](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/03_diseno_esquematico_concreto_reforzado.ipynb)
 |[05-diseño esquemático de concreto](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/27-diseno_concreto_reforzado.ipynb)             |
 |[06-análisis viga simplemente apoyada](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/28-analisis_viga_simplemente_apoyada.ipynb)|
 |[07-análisis viga en voladizo](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/29-modelo_viga_voladizo.ipynb)|
