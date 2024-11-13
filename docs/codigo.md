@@ -9,7 +9,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 ## 04. Relaciones entre los esfuerzos y las deformaciones
 | Códigos                                                                             | 
 |---                                                                                  |                                       
-|[01- graficos_colores_viga_simplemente_apoyada.ipynb]([https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_DP.ipynb](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/04_ley_de_Hooke/4.08.3_ejemplo_2D_a_3D_deformacion_plana.ipynb))              |
+|[01- graficos_colores_viga_simplemente_apoyada.ipynb](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_08_03_ejemplo_DP.ipynb(https://github.com/diegoandresalvarez/solidos/blob/master/codigo/04_ley_de_Hooke/4.08.3_ejemplo_2D_a_3D_deformacion_plana.ipynb))              |
 |[03-Integrales vigas](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_04.ipynb)	                                  |          
 |[04-gráficos de colores de esfuerzos y deformaciones](https://github.com/michaelherediaperez/medio_continuo/blob/main/codigos/cap_04/04_09_graficos_colores.ipynb)|
 |[05-diseño esquemático de concreto](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/27-diseno_concreto_reforzado.ipynb)             |
