@@ -24,7 +24,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 ## 06. Formulación de la teoría de elasticidad en coordenadas cilíndricas
 | Códigos                                                                             | 
 |---                                                                                  |
-|08-laplaciano en coordenadas polares: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.01_laplaciano.ipynb)|
+|08-laplaciano en polares: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.01_laplaciano.ipynb)|
 |09-gradiente en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.03.1_gradiente.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.1_gradiente.mac)|
 |10-divergencia en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.03.3_divergencia.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.3_divergencia.mac)|
-|11-rotacional en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.4_rotacional.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.4_rotacional.mac)|
+|11-rotacional en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.03.4_rotacional.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.4_rotacional.mac)|
