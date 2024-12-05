@@ -30,3 +30,4 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |11-rotacional en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.03.4_rotacional.ipynb) - [Maxima](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/codigo/cap_06/6.03.4_rotacional.mac)|
 |12-cambio de base rectangulares a cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.04_cambio_de_base_cil_a_rect.ipynb)|
 |13-cambio de base de cilíndricas a rectangulares: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.04_cambio_de_base_rect_a_cil.ipynb)|
+|14-ecuaciones diferenciales de equilibrio en coordenadas cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.05_ec_dif_de_equilibrio.ipynb)|
