@@ -31,3 +31,10 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |12-cambio de base rectangulares a cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.04_cambio_de_base_cil_a_rect.ipynb)|
 |13-cambio de base de cilíndricas a rectangulares: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.04_cambio_de_base_rect_a_cil.ipynb)|
 |14-ecuaciones diferenciales de equilibrio en coordenadas cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.05_ec_dif_de_equilibrio.ipynb)|
+|15- Componentes de la deformación en coordenadas cilíndricas versión 1: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.07_deformaciones_cil_ver1.ipynb)|
+|16- Componentes de la deformación en coordenadas cilíndricas versión 2: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.07_deformaciones_cil_ver2.ipynb)|
+|17- Ley de Hooke en coordenadas cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.10_ley_de_Hooke.ipynb)|
+|18- Ecuaciones de compatibilidad de Beltrami en cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.12.1_Beltrami_cilindricas.ipynb)|
+|19- Ecuaciones de compatibilidad de Saint-Venant en cilíndricas: [Pythob](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.12.1_Saint_Venant_cilindricas.ipynb)|
+|20- Ecuaciones diferenciales parciales de Cauchy-Navier en coordenadas cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.13_Cauchy_Navier_cilindricas.ipynb)|
+|21- Ecuaciones diferenciales parciales de Cauchy-Navier en coordenadas polares para tensión plana: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.13_Cauchy_Navier_polares_TP.ipynb)|
