@@ -38,3 +38,4 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |19- Ecuaciones de compatibilidad de Saint-Venant en cilíndricas: [Pythob](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.12.1_Saint_Venant_cilindricas.ipynb)|
 |20- Ecuaciones diferenciales parciales de Cauchy-Navier en coordenadas cilíndricas: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.13_Cauchy_Navier_cilindricas.ipynb)|
 |21- Ecuaciones diferenciales parciales de Cauchy-Navier en coordenadas polares para tensión plana: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.13_Cauchy_Navier_polares_TP.ipynb)|
+|22- Airy en coordenadas polares: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.14.1_Airy.ipynb)|
