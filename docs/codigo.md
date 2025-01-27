@@ -17,9 +17,9 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 ## 05. Ecuaciones diferenciales fundamentales en la teoría de elasticidad
 | Códigos                                                                             | 
 |---                                                                                  |     
-|[05-verificación de la notación indicial: ecuaciones de compatibilidad de Saint-Venant](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/30-ecuaciones_saint_venant.ipynb)|
-|[06-análisis viga simplemente apoyada Airy](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/05_ec_diferenciales_solidos/5.08_viga_simplemente_apoyada_Airy.ipynb)|
-|[07-análisis viga en voladizo Airy](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/32-analisis_viga_en_voladizo_airy.ipynb)|
+|[05-verificación de la notación indicial: ecuaciones de compatibilidad de Saint-Venant](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/05_ec_diferenciales_solidos/5.02_ecuaciones_Saint_Venant.ipynb)|
+|[06-análisis viga simplemente apoyada Airy](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/05_ec_diferenciales_solidos/5.07_viga_simplemente_apoyada_Airy.ipynb)|
+|[07-análisis viga en voladizo Airy](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/05_ec_diferenciales_solidos/5.15_ejer_10_viga_en_voladizo_Airy.ipynb)|
 
 ## 06. Formulación de la teoría de elasticidad en coordenadas cilíndricas
 | Códigos                                                                             | 
