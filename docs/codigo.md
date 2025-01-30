@@ -45,3 +45,4 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 | Códigos                                                                             | 
 |---                                                                                  |     
 |23- Problema de Flamant: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/07_aplicaciones_polares/7.3_Flamant.ipynb)|
+|24- Problema de cargas distribuidas en medios seminfinitos: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/07_aplicaciones_polares/7.4_cargas_distr_medios_semiinfinitos.ipynb)|
