@@ -11,4 +11,4 @@ Se evaluará:
 * Capítulo 7: secciones 7.3, 7.4 y 7.5.
 * Y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Aquí se evaluarán todos los códigos, incluso, los no explicados en clase.
 # **Examen  4:** 25% (jueves 06 de marzo de 2025). 
-Se evaluará el capítulo 16 y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+Se evaluará el capítulo 16 hasta la sección 16.6 (incluida) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
