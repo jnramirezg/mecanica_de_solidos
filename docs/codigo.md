@@ -41,7 +41,7 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |22- Airy en coordenadas polares: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/06_cilindricas/6.14.1_Airy.ipynb)|
 
 
-## 05. Ecuaciones diferenciales fundamentales en la teoría de elasticidad
+## 07. Aplicaciones de la teoría de la elasticidad
 | Códigos                                                                             | 
 |---                                                                                  |     
 |23- Problema de Flamant: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/07_aplicaciones_polares/7.3_Flamant.ipynb)|
@@ -49,3 +49,9 @@ En [este enlace](https://github.com/jnramirezg/medio_continuo/tree/main/codigo) 
 |25- Ensayo Brasilero: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/07_aplicaciones_polares/7.5_ensayo_brasilero.ipynb)|
 |26- Problema de Boussinesq: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/07_aplicaciones_polares/7.6_Boussinesq.ipynb)|
 
+## 16. Teoría de falla
+| Códigos                                                                             | 
+|---                                                                                  |     
+|27- Invariantes: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/16_teorias_falla/16.01_invariantes.ipynb)|
+|28- Simetrías plano Pi: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/16_teorias_falla/16.03.2_simetrias_plano_pi.ipynb)|
+|29- Superficies de fluencia: [Python](https://github.com/diegoandresalvarez/solidos/blob/master/codigo/16_teorias_falla/16.07.5_superficies_de_fluencia.ipynb)|
