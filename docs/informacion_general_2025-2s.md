@@ -147,7 +147,10 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 <sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 ### Exámenes:
 * **Examen 1:** 20% (semana 3) Miércoles 10 de septiembre de 2025.
+  
 Se evaluará desde el inicio del `main_solidos.pdf` hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+
+
 * **Examen 2:** 20% (semana 5) Viernes 26 de septiembre de 2025.
 * **Examen 3:** 20% (semana 8): Viernes 17 de octubre de 2025.
 * **Examen 4:** 20% (semana 12): Viernes 12 de diciembre de 2025.
