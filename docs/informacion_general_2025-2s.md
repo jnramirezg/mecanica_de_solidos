@@ -142,3 +142,31 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 ## Falta a una actividad evaluativa
 Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
+
+## Tema de los exámenes 2025-2s
+<sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
+### Exámenes:
+* **Examen 1:** 20% (semana 3) Miércoles 10 de septiembre de 2025.
+* **Examen 2:** 20% (semana 5) Viernes 26 de septiembre de 2025.
+* **Examen 3:** 20% (semana 8): Viernes 17 de octubre de 2025.
+* **Examen 4:** 20% (semana 12): Viernes 12 de diciembre de 2025.
+* **Examen 5:** 20% (semana 16): Viernes 12 de diciembre de 2025.
+
+# Comunicación con el docente y solución de dudas
+- La comunicación extraclase con el docente será únicamente mediante los correos institucionales: jnramirezg@unal.edu.co
+- El correo deberá traer como asunto "MECÁNICA_DE_SÓLIDOS-(_escribir_asunto_)".
+
+# Asignatura
+*"Además de enseñar, enseña a dudar de lo que haz enseñado"* **José Ortega y Gasset**
+## General
+<sub>Literal (a), (f) y (h) del artículo 23 del Acuerdo 008 de 2008 del CSU	</sub>
+
+| **Nombre**   | Mecánica de sólidos  |
+| ---          | ---                  |
+| **Código**   | 4201079              |
+| **Créditos** | 3                    |
+
+| Porcentaje mínimo de asistencia | **90%** |
+| ---                             | ---     |
+| ¿Asignatura validable?          | No      |
+
