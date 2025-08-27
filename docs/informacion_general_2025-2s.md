@@ -123,3 +123,22 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 ## Mecánica de sólidos Gr.2
 - Miércoles  10:00h – 12:00h (Aula xxxx) [Mi10-12 **xxxx**]
 - Viernes    14:00h – 16:00h (Aula xxxx) [Vi14-16 **xxxx**]
+
+## Cronograma y porcentajes
+
+| **Actividad evaluativa** | **%** | **Fecha**                       |
+| ---                      | ---   | ---                             |
+| Evaluación parcial 1     | 20%   | Miércoles 10 de septiembre de 2025|
+| Evaluación parcial 2     | 20%   | Viernes 26 de septiembre de 2025|
+| Evaluación parcial 3     | 20%   | Viernes 17 de octubre de 2025|
+| Evaluación parcial 4     | 20%   | Viernes 14 de noviembre de 2025|
+| Evaluación parcial 5     | 20%   | Viernes 12 de diciembre de 2025|
+
+## Sobre la evaluación:
+- Serán evaluados los temas vistos hasta la semana antes del examen (excepto el último), incluido los temas de estudio autónomo.
+- Los exámenes serán individuales.
+- Cualquier forma de plagio o copia será penalizada con la normativa vigente de la Universidad y será causante de pérdida de cualquier beneficio adicional dado por el docente.
+- No será posible el uso de ninguna herramienta digital, ni calculadora.
+
+## Falta a una actividad evaluativa
+Siempre que usted falte a una actividad evaluativa, deberá haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero (0.0).
