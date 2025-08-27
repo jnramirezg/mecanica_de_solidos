@@ -109,3 +109,17 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
   * Localización del centro de torsión
   * Uso de chaflanes en barras sometidas a torsión
   * Torsión de secciones de pared delgada
+
+# Cronograma y evaluación
+| **Inicio:**               | lunes 25 de agosto de 2025                                     |
+| ---                       | ---                                                             |
+| **Fin:**                  | sábado 13 de diciembre de 2025                                   |
+| **Notas SIA:**            | hasta las 8:00 p.m. del martes 16 de diciembre de 2025              |
+
+<sub>[Res. 1536 de 2024 de Rectoría](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=110213#1)</sub>
+## Mecánica tensorial Gr.1
+- Miércoles  08:00h – 10:00h (Aula C308) [Mi08-10 **C412**]
+- Viernes    08:00h – 10:00h (Aula C308) [Vi08-10 **C401**]
+## Mecánica tensorial Gr.2
+- Miércoles  10:00h – 12:00h (Aula xxxx) [Mi10-12 **xxxx**]
+- Viernes    14:00h – 16:00h (Aula xxxx) [Vi14-16 **xxxx**]
