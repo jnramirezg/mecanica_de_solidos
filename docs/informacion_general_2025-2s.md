@@ -118,21 +118,21 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 <sub>[Res. 1536 de 2024 de Rectoría](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=110213#1)</sub>
 ## Mecánica de sólidos Gr.1
-- Miércoles  08:00h – 10:00h (Aula C308) [Mi08-10 **C412**]
-- Viernes    08:00h – 10:00h (Aula C308) [Vi08-10 **C401**]
+- Miércoles  08:00h – 10:00h (Aula C306) [Mi08-10 **C306**]
+- Viernes    08:00h – 10:00h (Aula C401) [Vi08-10 **C401**]
 ## Mecánica de sólidos Gr.2
-- Miércoles  10:00h – 12:00h (Aula xxxx) [Mi10-12 **xxxx**]
-- Viernes    14:00h – 16:00h (Aula xxxx) [Vi14-16 **xxxx**]
+- Miércoles  10:00h – 12:00h (Aula C108) [Mi10-12 **C108**]
+- Jueves    16:00h – 18:00h (Aula C108) [Vi14-16 **c108**]
 
 ## Cronograma y porcentajes
 
-| **Actividad evaluativa** | **%** | **Fecha**                       |
-| ---                      | ---   | ---                             |
-| Evaluación parcial 1     | 20%   | Miércoles 10 de septiembre de 2025|
-| Evaluación parcial 2     | 20%   | Viernes 26 de septiembre de 2025|
-| Evaluación parcial 3     | 20%   | Viernes 17 de octubre de 2025|
-| Evaluación parcial 4     | 20%   | Viernes 14 de noviembre de 2025|
-| Evaluación parcial 5     | 20%   | Viernes 12 de diciembre de 2025|
+| **Actividad evaluativa** | **%** |  **Fecha gr1**                       |**Fecha gr2**  |
+| ---                      | ---   | ---                             |---|
+| Evaluación parcial 1     | 20%   | Miércoles 17 de septiembre de 2025| Miércoles 17 de septiembre de 2025| 
+| Evaluación parcial 2     | 20%   | Viernes 26 de septiembre de 2025| Jueves 25 de septiembre de 2025|
+| Evaluación parcial 3     | 20%   | Viernes 17 de octubre de 2025| Jueves 16 de octubre de 2025|
+| Evaluación parcial 4     | 20%   | Viernes 14 de noviembre de 2025| Jueves 13 de noviembre de 2025|
+| Evaluación parcial 5     | 20%   | Viernes 12 de diciembre de 2025| Jueves 11 de diciembre de 2025|
 
 ## Sobre la evaluación:
 - Serán evaluados los temas vistos hasta la semana antes del examen (excepto el último), incluido los temas de estudio autónomo.
@@ -146,15 +146,15 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
 ## Tema de los exámenes 2025-2s
 <sub>Literales (d) y (e) del artículo 23 del Acuerdo 008 de 2008 del CSU</sub>
 ### Exámenes:
-* **Examen 1:** 20% (semana 3) Miércoles 10 de septiembre de 2025.
+* **Examen 1:** 20% (semana 3) Miércoles 17 de septiembre de 2025.
   
 Se evaluará desde el inicio del `main_solidos.pdf` hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
 
 
-* **Examen 2:** 20% (semana 5) Viernes 26 de septiembre de 2025.
-* **Examen 3:** 20% (semana 8): Viernes 17 de octubre de 2025.
-* **Examen 4:** 20% (semana 12): Viernes 12 de diciembre de 2025.
-* **Examen 5:** 20% (semana 16): Viernes 12 de diciembre de 2025.
+* **Examen 2:** 20% (semana 5) Viernes 26 de septiembre de 2025/Jueves 25 de septiembre de 2025
+* **Examen 3:** 20% (semana 8): Viernes 17 de octubre de 2025/Jueves 16 de octubre de 2025
+* **Examen 4:** 20% (semana 12): Viernes 14 de noviembre de 2025/Jueves 13 de noviembre de 2025
+* **Examen 5:** 20% (semana 16): Viernes 12 de diciembre de 2025/Jueves 11 de diciembre de 2025
 
 # Comunicación con el docente y solución de dudas
 - La comunicación extraclase con el docente será únicamente mediante los correos institucionales: jnramirezg@unal.edu.co
