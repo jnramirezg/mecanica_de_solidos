@@ -122,7 +122,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 - Viernes    08:00h – 10:00h (Aula C401) [Vi08-10 **C401**]
 ## Mecánica de sólidos Gr.2
 - Miércoles  10:00h – 12:00h (Aula C108) [Mi10-12 **C108**]
-- Jueves    16:00h – 18:00h (Aula C108) [Vi16-18 **C108**]
+- Jueves    16:00h – 18:00h (Aula C108) [Ju16-18 **C108**]
 
 ## Cronograma y porcentajes
 
