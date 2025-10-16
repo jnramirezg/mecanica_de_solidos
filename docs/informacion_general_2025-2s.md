@@ -129,8 +129,8 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 | **Actividad evaluativa** | **%** |  **Fecha gr1**                       |**Fecha gr2**  |
 | ---                      | ---   | ---                             |---|
 | Evaluación parcial 1     | 20%   | Miércoles 17 de septiembre de 2025| Miércoles 17 de septiembre de 2025| 
-| Evaluación parcial 2     | 20%   | Viernes 10 de octubre de 2025| Jueves 16 de octubre de 2025|
-| Evaluación parcial 3     | 20%   | Viernes 17 de octubre de 2025| Jueves 16 de octubre de 2025|
+| Evaluación parcial 2     | 20%   | Viernes 10 de octubre de 2025| Miércoles 22 de octubre de 2025|
+| Evaluación parcial 3     | 20%   | Viernes xx de octubre de 2025| Jueves xx de octubre de 2025|
 | Evaluación parcial 4     | 20%   | Viernes 14 de noviembre de 2025| Jueves 13 de noviembre de 2025|
 | Evaluación parcial 5     | 20%   | Viernes 12 de diciembre de 2025| Jueves 11 de diciembre de 2025|
 
