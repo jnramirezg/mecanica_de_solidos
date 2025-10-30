@@ -130,7 +130,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 | ---                      | ---   | ---                             |---|
 | Evaluación parcial 1     | 20%   | Miércoles 17 de septiembre de 2025| Miércoles 17 de septiembre de 2025| 
 | Evaluación parcial 2     | 20%   | Viernes 10 de octubre de 2025| Miércoles 22 de octubre de 2025|
-| Evaluación parcial 3     | 20%   | Viernes 31 de octubre de 2025| Jueves 06 de noviembre de 2025|
+| Evaluación parcial 3     | 20%   | Viernes 07 de noviembre de 2025| Jueves 06 de noviembre de 2025|
 | Evaluación parcial 4     | 20%   | Viernes 21 de noviembre de 2025| Miércoles 26 de noviembre de 2025|
 | Evaluación parcial 5     | 20%   | Viernes 12 de diciembre de 2025| Jueves 11 de diciembre de 2025|
 
@@ -156,7 +156,7 @@ Siempre que usted falte a una actividad evaluativa, deberá haber algún documen
   * Relación entre los esfuerzos principales obtenidos en el análisis bidimensional y tridimensional
 * Interpretación de los gráficos de colores de esfuerzos y deformaciones (tanto los conceptos del libro como lo visto en clase).
 * Modificación de la ley de Hooke para tener en cuenta los efectos térmicos en el caso de materiales isótropos y ortótropos
-* **Examen 3:** 20% (semana 8): Viernes 31 de octubre de 2025/Jueves 06 de octubre de 2025
+* **Examen 3:** 20% (semana 10): Viernes 07 de noviembre de 2025/Jueves 06 de noviembre de 2025
 * **Examen 4:** 20% (semana 12): Viernes 21 de noviembre de 2025/Miércoles 26 de noviembre de 2025
 * **Examen 5:** 20% (semana 16): Viernes 12 de diciembre de 2025/Jueves 11 de diciembre de 2025
 
